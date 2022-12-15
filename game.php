@@ -202,8 +202,8 @@ $palabraJuego = $json_jugador['palabra'];
 
 
     </main>
-    <footer>
-
+    <footer class="container text-center bg-dark text-light p-3">
+        <p> Elaborado por <a href="https://github.com/JimyCalvo/AWEB_Labortarorio5">@JimyCalvo</a> y <a href="https://github.com/Martyn147">@Martyn147</a></p>
     </footer>
 </body>
 
